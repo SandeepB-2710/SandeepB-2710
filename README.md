@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate about building scalable backends and AI-powered applications &nbsp;|&nbsp; Bangalore, India
+  Passionate about building scalable backends and AI-powered applications &nbsp;|&nbsp; Bangalore, India
 </p>
 
 <!-- Social Badges — clean flat style -->
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,mongodb,docker,git,postman,linux&perline=10" />
@@ -35,14 +35,14 @@
 
 ---
 
-### 📌 Featured Projects
+### Projects
 
-- 🗒️ **[InfoCircle](https://github.com/SandeepB-2710)** — Full stack blogging platform · Spring Boot REST API + ReactJS SPA · JWT auth + role-based access
-- 🤖 **[RedditGPT](https://github.com/SandeepB-2710)** — LLM-powered AI assistant · LangChain + OpenAI · trained on 100K+ Reddit posts
+-  **[InfoCircle](https://github.com/SandeepB-2710)** — Full stack blogging platform · Spring Boot REST API + ReactJS SPA · JWT auth + role-based access
+-  **[RedditGPT](https://github.com/SandeepB-2710)** — LLM-powered AI assistant · LangChain + OpenAI · trained on 100K+ Reddit posts
 
 ---
 
-### 📊 GitHub Stats
+###  Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
@@ -52,5 +52,5 @@
 
 ---
 <p align="center">
-  <i>💼 Open to Full Stack / Backend Engineering roles — feel free to reach out!</i>
+  <i> Open to Full Stack / Backend Engineering roles — feel free to reach out!</i>
 </p>
