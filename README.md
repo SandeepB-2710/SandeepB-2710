@@ -45,11 +45,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true&dates=A8B2D8&ring=70A5FD&fire=FF9650&sideLabels=70A5FD&currStreakLabel=70A5FD" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepb-2710&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;
@@ -57,24 +56,11 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeepb-2710&theme=tokyonight&hide_border=true&utcOffset=5.5" height="160"/>
 </p>
-
----
-
-### 📈 Contribution Graphs
-
-**📅 Daily — Last 30 Days Activity**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&theme=tokyo-night&hide_border=true&area=true&custom_title=Daily+Contribution+Activity" width="95%" />
 </p>
-
-**🗓️ Monthly & Yearly — Full Overview**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepb-2710&theme=tokyonight&hide_border=true" width="95%" />
-</p>
-
-**🔥 Commit Frequency — By Day of Week**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&theme=tokyo-night&hide_border=true&area=false&custom_title=Commit+Frequency+Overview&days=100" width="95%" />
 </p>
 
 ---
