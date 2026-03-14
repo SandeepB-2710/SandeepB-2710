@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true" height="175" />
 </p>
----
+
 <p align="center">
   <i> Open to Full Stack / Backend Engineering roles — feel free to reach out!</i>
 </p>
