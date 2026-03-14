@@ -51,15 +51,6 @@
 </p>
 
 ---
-
-### 🟩 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/163B2A/sandeepb-2710" alt="Sandeep's GitHub Contribution Chart" width="95%"/>
-</p>
-
----
-
 <p align="center">
   <i>💼 Open to Full Stack / Backend Engineering roles — feel free to reach out!</i>
 </p>
