@@ -52,10 +52,10 @@
 
 ---
 
-### 🟩 Contribution Graph
+### 🟩 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=false&hide_border=true&custom_title=Contribution+Activity&radius=6" width="95%" />
+  <img src="https://ghchart.rshah.org/39d353/sandeepb-2710" alt="Sandeep's GitHub Contribution Chart" width="95%"/>
 </p>
 
 ---
