@@ -50,5 +50,8 @@
 </p>
 
 <p align="center">
+
+---
+
   <i> Open to Full Stack / Backend Engineering roles — feel free to reach out!</i>
 </p>
