@@ -32,8 +32,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
