@@ -55,7 +55,7 @@
 ### 🟩 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/sandeepb-2710" alt="Sandeep's GitHub Contribution Chart" width="95%"/>
+  <img src="https://ghchart.rshah.org/1e3a2f/sandeepb-2710" alt="Sandeep's GitHub Contribution Chart" width="95%"/>
 </p>
 
 ---
