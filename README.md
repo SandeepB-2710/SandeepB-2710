@@ -6,39 +6,24 @@
   🚀 Passionate about building scalable backends and AI-powered applications &nbsp;|&nbsp; Bangalore, India
 </p>
 
-<!-- Social Badges -->
+<!-- Social Badges — clean flat style -->
 <p align="center">
   <a href="https://linkedin.com/in/sandeep-badiger" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin" height="24"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:bsandeep2277@gmail.com">
-    <img src="https://img.shields.io/badge/-bsandeep2277@gmail.com-EA4335?style=social&logo=gmail" height="24"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/SandeepB-2710">
-    <img src="https://img.shields.io/badge/-SandeepB--2710-181717?style=social&logo=github" height="24"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sandeepb-2710&style=social&label=👁️+Profile+Views" height="24"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sandeepb-2710&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" height="28"/>
 </p>
 
 <br/>
-
----
-
-### 👨‍💻 About Me
-
-| | |
-|---|---|
-| 🎓 | B.E. in Computer Science |
-| 💼 | Full Stack Java Developer |
-| 🌍 | Bangalore, India |
-| 🔭 | Currently building AI-powered apps |
-| 🌱 | Learning — LangChain, System Design, Cloud |
-| 💬 | Ask me about Spring Boot, ReactJS, REST APIs |
-| 📫 | bsandeep2277@gmail.com |
-| ⚡ | Fun fact — I debug faster with coffee ☕ |
 
 ---
 
