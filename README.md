@@ -6,7 +6,7 @@
   🚀 Passionate about building scalable backends and AI-powered applications &nbsp;|&nbsp; Bangalore, India
 </p>
 
-<!-- Social Badges — icon-only rounded style -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/sandeep-badiger" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin" height="24"/>
@@ -24,6 +24,21 @@
 </p>
 
 <br/>
+
+---
+
+### 👨‍💻 About Me
+
+| | |
+|---|---|
+| 🎓 | B.E. in Computer Science |
+| 💼 | Full Stack Java Developer |
+| 🌍 | Bangalore, India |
+| 🔭 | Currently building AI-powered apps |
+| 🌱 | Learning — LangChain, System Design, Cloud |
+| 💬 | Ask me about Spring Boot, ReactJS, REST APIs |
+| 📫 | bsandeep2277@gmail.com |
+| ⚡ | Fun fact — I debug faster with coffee ☕ |
 
 ---
 
@@ -49,18 +64,13 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
+---
+
+### 🟩 Contribution Graph
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepb-2710&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepb-2710&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeepb-2710&theme=tokyonight&hide_border=true&utcOffset=5.5" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&theme=tokyo-night&hide_border=true&area=true&custom_title=Daily+Contribution+Activity" width="95%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepb-2710&theme=tokyonight&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=false&hide_border=true&custom_title=Contribution+Activity&radius=6" width="95%" />
 </p>
 
 ---
