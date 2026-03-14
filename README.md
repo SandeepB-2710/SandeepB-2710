@@ -32,13 +32,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepb-2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="195" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepb-2710&theme=tokyonight&hide_border=true&dates=A8B2D8&ring=70A5FD&fire=FF9650&sideLabels=70A5FD&currStreakLabel=70A5FD" height="195" />
 </p>
 
+<!-- WakaTime / extra stats row -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepb-2710&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepb-2710&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeepb-2710&theme=tokyonight&hide_border=true&utcOffset=5.5" height="160"/>
+</p>
+
+---
+
+### 📈 Contribution Graphs
+
+<!-- Graph 1: Area / line graph — shows recent daily activity -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepb-2710&theme=tokyo-night&hide_border=true&area=true&area_color=70A5FD&line=70A5FD&point=FFFFFF&custom_title=Contribution+Activity+%E2%80%94+Last+30+Days" width="95%" />
+</p>
+
+<!-- Graph 2: Full profile summary card — shows yearly heatmap + stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepb-2710&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
